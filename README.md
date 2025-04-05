@@ -1,6 +1,7 @@
 This project focuses on detecting hate speech in textual data using a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model. Hate speech detection is a critical task in natural language processing (NLP), especially for promoting healthier online communication and flagging harmful content.
 
-🔍 Overview
+🔍 Overview:
+
 Preprocess and clean text data
 Tokenize and encode input using BERT tokenizer
 Fine-tune a pretrained BERT model on a labeled hate speech dataset
